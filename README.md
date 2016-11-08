@@ -39,7 +39,7 @@ Y agregar el nombre del archivo descargado
 	# Archivo descargado de Magento
 	MAGEFILE=Magento-CE-2.1.2_sample_data-2016-10-11-11-27-51.tar.gz
 
-### 4. Inciar la máquina virtual
+### 5. Inciar la máquina virtual
 Este paso puede tomar de 5 a 10 minutos dependiendo del tamaño del archivo descargado y de la velocidad del disco duro
 
 	vagrant up
