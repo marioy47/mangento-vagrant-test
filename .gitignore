@@ -1,0 +1,12 @@
+# Cache Files
+.vagrant
+.DS_Store
+
+# Dirs
+html
+magento
+installers
+
+# Gulp, bower, etc
+node_modules
+yarn.lock
